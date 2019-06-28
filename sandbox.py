@@ -4,3 +4,4 @@ def calculator(x, y):
 
 
 calculator(1, 2)
+calculator(3, 5)
