@@ -1,3 +1,7 @@
+"""The function works as a multiplier.
+nice"""
+
+
 def calculator(x, y):
     z = x + y
     return z
