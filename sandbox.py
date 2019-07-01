@@ -1,9 +1,8 @@
 
 """
+The function works as a summariser.
 
-The function works as a multiplier.
-nice
-
+It takes 2 arguments and gives only one.
 """
 
 
