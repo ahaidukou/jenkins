@@ -1,8 +1,11 @@
-"""The function works as a multiplier.
-nice"""
+"""
+The function works as a multiplier.
+nice
+"""
 
 
 def calculator(x, y):
+    """Summing"""
     z = x + y
     return z
 
