@@ -1,3 +1,4 @@
+
 """
 
 The function works as a multiplier.
@@ -7,7 +8,7 @@ nice
 
 
 def calculator(x, y):
-    """Sum of two arguments"""
+    """Sum of two arguments."""
     z = x + y
     return z
 
